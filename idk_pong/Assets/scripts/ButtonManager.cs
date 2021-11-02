@@ -30,5 +30,5 @@ public class ButtonManager : MonoBehaviour
         
     }
 
-    //even een commentje xxxx
+    //even een commentje
 }
