@@ -11,7 +11,7 @@ public class ButtonManager : MonoBehaviour
 
     public void OnButtonPress()
     {
-        n++;
+        n+=2;
         buttonText.text = n.ToString();
     }
 
