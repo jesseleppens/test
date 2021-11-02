@@ -19,4 +19,11 @@ public class ButtonAnimation : MonoBehaviour
             Animator.Play("NavClose");
         }
     }
+
+    public void Test()
+    {
+        Debug.Log("ja");
+    }
 }
+
+
